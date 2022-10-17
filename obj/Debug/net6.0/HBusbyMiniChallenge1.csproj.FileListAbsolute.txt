@@ -1,0 +1,15 @@
+C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\HBusbyMiniChallenge1\bin\Debug\net6.0\HBusbyMiniChallenge1.exe
+C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\HBusbyMiniChallenge1\bin\Debug\net6.0\HBusbyMiniChallenge1.deps.json
+C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\HBusbyMiniChallenge1\bin\Debug\net6.0\HBusbyMiniChallenge1.runtimeconfig.json
+C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\HBusbyMiniChallenge1\bin\Debug\net6.0\HBusbyMiniChallenge1.dll
+C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\HBusbyMiniChallenge1\bin\Debug\net6.0\HBusbyMiniChallenge1.pdb
+C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\HBusbyMiniChallenge1\obj\Debug\net6.0\HBusbyMiniChallenge1.csproj.AssemblyReference.cache
+C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\HBusbyMiniChallenge1\obj\Debug\net6.0\HBusbyMiniChallenge1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\HBusbyMiniChallenge1\obj\Debug\net6.0\HBusbyMiniChallenge1.AssemblyInfoInputs.cache
+C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\HBusbyMiniChallenge1\obj\Debug\net6.0\HBusbyMiniChallenge1.AssemblyInfo.cs
+C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\HBusbyMiniChallenge1\obj\Debug\net6.0\HBusbyMiniChallenge1.csproj.CoreCompileInputs.cache
+C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\HBusbyMiniChallenge1\obj\Debug\net6.0\HBusbyMiniChallenge1.dll
+C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\HBusbyMiniChallenge1\obj\Debug\net6.0\refint\HBusbyMiniChallenge1.dll
+C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\HBusbyMiniChallenge1\obj\Debug\net6.0\HBusbyMiniChallenge1.pdb
+C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\HBusbyMiniChallenge1\obj\Debug\net6.0\HBusbyMiniChallenge1.genruntimeconfig.cache
+C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\HBusbyMiniChallenge1\obj\Debug\net6.0\ref\HBusbyMiniChallenge1.dll
