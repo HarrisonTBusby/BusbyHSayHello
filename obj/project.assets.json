@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\harry\\OneDrive\\Desktop\\CodeStack Level 1\\Day1AllCombineAssignements\\HBusbyMiniChallenge1\\HBusbyMiniChallenge1.csproj",
+      "projectUniqueName": "C:\\Users\\harry\\OneDrive\\Desktop\\CodeStack Level 1\\Day1AllCombineAssignements\\BusbyHSayHello\\HBusbyMiniChallenge1.csproj",
       "projectName": "HBusbyMiniChallenge1",
-      "projectPath": "C:\\Users\\harry\\OneDrive\\Desktop\\CodeStack Level 1\\Day1AllCombineAssignements\\HBusbyMiniChallenge1\\HBusbyMiniChallenge1.csproj",
+      "projectPath": "C:\\Users\\harry\\OneDrive\\Desktop\\CodeStack Level 1\\Day1AllCombineAssignements\\BusbyHSayHello\\HBusbyMiniChallenge1.csproj",
       "packagesPath": "C:\\Users\\harry\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\harry\\OneDrive\\Desktop\\CodeStack Level 1\\Day1AllCombineAssignements\\HBusbyMiniChallenge1\\obj\\",
+      "outputPath": "C:\\Users\\harry\\OneDrive\\Desktop\\CodeStack Level 1\\Day1AllCombineAssignements\\BusbyHSayHello\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\harry\\AppData\\Roaming\\NuGet\\NuGet.Config"

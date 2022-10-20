@@ -27,13 +27,13 @@ Console.WriteLine($"Hello {yourName}");
 
 Console.WriteLine("Would you like to play again?");
 Console.WriteLine("Type yes to continue and no to stop");
-string playActual = playAgain.ToLower();
-playActual= Console.ReadLine();
+string playActual= Console.ReadLine().ToLower();
 
-if(playAgain == "yes"){
+if(playActual == "yes"){
     Console.WriteLine("Lets play again!");
-}else{
+}else if(playActual == "no"){
     Console.WriteLine("Go away");
+    break;
 }
 }
 }
